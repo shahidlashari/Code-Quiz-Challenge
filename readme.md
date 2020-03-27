@@ -2,6 +2,7 @@ Code Quiz Challenge
 
 URL Links:
 https://shahidlashari.github.io/HW4/. 
+
 https://github.com/shahidlashari/HW4/blob/master/readme.md. 
 
 
@@ -34,6 +35,6 @@ I was able to solve each of my problems ultimately through persistent efforts an
 ![image](https://user-images.githubusercontent.com/61823648/77713056-a73e2e80-6f92-11ea-9b4d-5c04fcf7d74c.png)
 ![image](https://user-images.githubusercontent.com/61823648/77713117-c937b100-6f92-11ea-9ea0-6ad1382d97e2.png)
 ![image](https://user-images.githubusercontent.com/61823648/77713143-d8b6fa00-6f92-11ea-9c4a-212311c18ceb.png)
-![image](https://user-images.githubusercontent.com/61823648/77713166-e7051600-6f92-11ea-9ef2-e393359c45dc.png)
 ![image](https://user-images.githubusercontent.com/61823648/77713191-f7b58c00-6f92-11ea-9cf5-da6863cbd174.png)
+![image](https://user-images.githubusercontent.com/61823648/77713166-e7051600-6f92-11ea-9ef2-e393359c45dc.png)
 
