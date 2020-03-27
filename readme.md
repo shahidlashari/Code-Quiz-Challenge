@@ -1,6 +1,7 @@
 Code Quiz Challenge
 
-URL Links:https://github.com/shahidlashari/HW4/blob/master/readme.md
+URL Links:https://shahidlashari.github.io/HW4/
+https://github.com/shahidlashari/HW4/blob/master/readme.md
 
 
 Description:
