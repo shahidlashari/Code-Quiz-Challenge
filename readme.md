@@ -29,4 +29,4 @@ Challenges:
 This entire activity was very difficult. I really don't understand what I'm doing with the DOM and Local storage and it took forever just to figure out how to get my timer working. I didn't understand how to display the questions individually or if I needed to use JSON methods so I couldn't move forward for the longest time. I tried looking at online sources and class examples multiple times and was still confused after 2 days with several hours of the same cycle. I feel like my comprehension is lagging compared to the pace of this subject matter. I was slightly overwhelmed with numerous thoughts, however ,I started my pseudo-code .I went through lecture videos and also looking through a couple of password generator examples online in order to understand javascript code.
 
 I was able to solve each of my problems ultimately through persistent efforts and looking at online resources!
-![sceenshot]"http://.assets/images/correct answer notification.png"
+![sceenshot]https://github.com/shahidlashari/HW4/blob/master/assets/images/correct%20answer%20notification.png
