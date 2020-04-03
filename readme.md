@@ -1,6 +1,9 @@
 Code Quiz Challenge
 
 URL Links:
+https://shahidlashari.github.io/HW4/. 
+
+https://github.com/shahidlashari/HW4/blob/master/readme.md. 
 
 
 Description:
@@ -27,3 +30,11 @@ Challenges:
 This entire activity was very difficult. I really don't understand what I'm doing with the DOM and Local storage and it took forever just to figure out how to get my timer working. I didn't understand how to display the questions individually or if I needed to use JSON methods so I couldn't move forward for the longest time. I tried looking at online sources and class examples multiple times and was still confused after 2 days with several hours of the same cycle. I feel like my comprehension is lagging compared to the pace of this subject matter. I was slightly overwhelmed with numerous thoughts, however ,I started my pseudo-code .I went through lecture videos and also looking through a couple of password generator examples online in order to understand javascript code.
 
 I was able to solve each of my problems ultimately through persistent efforts and looking at online resources!
+
+
+![image](https://user-images.githubusercontent.com/61823648/77713056-a73e2e80-6f92-11ea-9b4d-5c04fcf7d74c.png)
+![image](https://user-images.githubusercontent.com/61823648/77713117-c937b100-6f92-11ea-9ea0-6ad1382d97e2.png)
+![image](https://user-images.githubusercontent.com/61823648/77713143-d8b6fa00-6f92-11ea-9c4a-212311c18ceb.png)
+![image](https://user-images.githubusercontent.com/61823648/77713191-f7b58c00-6f92-11ea-9cf5-da6863cbd174.png)
+![image](https://user-images.githubusercontent.com/61823648/77713166-e7051600-6f92-11ea-9ef2-e393359c45dc.png)
+
