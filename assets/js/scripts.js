@@ -59,17 +59,23 @@ function renderQuestions() {
         return;
     }
 }
+
 // display option to enter name to scoreboard
 function displayScore() {
     document.getElementById("quiz").classList.add('d-none');
     document.getElementById("submit-score").classList.remove('d-none');
     userScoreEl.textContent = `Time score is ${timeScore}`;
+    
 }
+submitBtn.addEventListener("click", function () {
+    window.history.forward();
+});
 // Event Listeners for Main Buttons
 startBtn.addEventListener("click", startTimer);
 submitBtn.addEventListener("click", function (event) {
     event.stopPropagation();
     addScore();
+    
 });
 
 function addScore() {
