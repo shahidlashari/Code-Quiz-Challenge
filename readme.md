@@ -3,7 +3,7 @@ Code Quiz Challenge
 URL Links:
 https://shahidlashari.github.io/HW4/. 
 
-https://github.com/shahidlashari/HW4/blob/master/readme.md. 
+https://github.com/shahidlashari/HW4
 
 
 Description:
