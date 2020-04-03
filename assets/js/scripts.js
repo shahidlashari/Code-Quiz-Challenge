@@ -67,14 +67,13 @@ function displayScore() {
     userScoreEl.textContent = `Time score is ${timeScore}`;
     
 }
-submitBtn.addEventListener("click", function () {
-    window.history.forward();
-});
+
 // Event Listeners for Main Buttons
 startBtn.addEventListener("click", startTimer);
 submitBtn.addEventListener("click", function (event) {
     event.stopPropagation();
     addScore();
+     window.location.href = "highscores.html";
     
 });
 
